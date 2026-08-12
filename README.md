@@ -23,5 +23,7 @@ Automação em Python desenvolvida para análise de estoque crítico e cálculo 
 ## 💻 Exemplo de Saída no Terminal
 
 ALERTA: Pomada precisa de +3 un. para atingir o minimo seguro! Atualmente (2 un.)
+
 ALERTA: Oleo para Penteado precisa de +1 un. para atingir o minimo seguro! Atualmente (4 un.)
+
 Custo total estimado para reposiçao minima!: R$ 110.0
